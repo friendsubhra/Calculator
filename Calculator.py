@@ -1,4 +1,3 @@
-import math as ms
 import mathematics as m
 import tkinter as tk
 
