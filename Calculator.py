@@ -1,6 +1,6 @@
 import mathematics as m
 import tkinter as tk
-
+y=0
 exp=""
 dis=""
 second=True
